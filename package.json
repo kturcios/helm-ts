@@ -1,6 +1,6 @@
 {
   "name": "helm-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node client for interacting with helm based on the helm cli.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
