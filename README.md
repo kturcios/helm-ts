@@ -1,10 +1,9 @@
 # helm-ts
 
-<div style="display: flex; align-items: center;">
-  <img src="helm-icon-color.png" width="60" height="70">
-  <p style="font-size: 25px; padding: 5px;">+</p>
+<p float="left" style="color: red;">
+  <img src="helm-icon-color.png" width="55" height="65">
   <img src="ts-logo-256.png" width="65" height="65")>
-</div>
+</p>
 
 
 A Node/TypeScript client for Helm. It is modeled after the Helm CLI so if you're already comfortable with the CLI then using this client should be no problem for you.
