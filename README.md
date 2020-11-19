@@ -1,8 +1,8 @@
 # helm-ts
 
 <p float="left" style="color: red;">
-  <img src="helm-icon-color.png" width="55" height="65">
-  <img src="ts-logo-256.png" width="65" height="65")>
+  <img src="helm-icon-color.png" width="90" height="100">
+  <img src="ts-logo-256.png" width="100" height="100")>
 </p>
 
 
