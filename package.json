@@ -46,5 +46,10 @@
     "typescript",
     "helm3",
     "kubernetes"
+  ],
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
   ]
 }
