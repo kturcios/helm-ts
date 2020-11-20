@@ -1,8 +1,0 @@
-tests
-src
-node_modules
-.github
-.gitignore
-babel.config.js
-jest.config.js
-tsconfig.json
