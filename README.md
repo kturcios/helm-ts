@@ -1,8 +1,8 @@
 # helm-ts
 
 <p float="left" style="color: red;">
-  <img src="helm-icon-color.png" width="90" height="100">
-  <img src="ts-logo-256.png" width="100" height="100")>
+  <img src="https://raw.githubusercontent.com/kturcios/helm-ts/master/helm-icon-color.png" width="90" height="100">
+  <img src="https://raw.githubusercontent.com/kturcios/helm-ts/master/ts-logo-256.png" width="100" height="100")>
 </p>
 
 
@@ -21,7 +21,7 @@ $ helm install my-mongodb-release bitnami/mongodb
 `With helm-ts`
 ```js
 await helm.repo.add('bitnami', 'https://charts.bitnami.com/bitnami');
-await helm.install('my-release', 'bitnami/mongodb');
+await helm.install('my-mongodb-release', 'bitnami/mongodb');
 ```
 
 ### List Helm releases
