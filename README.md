@@ -87,3 +87,5 @@ import helm from 'helm-ts';
 
 ## Roadmap
 This project is currently a WIP. I will be mostly focused on implementing the most commonly used helm commands first.
+
+If there is a flag or command that you would like implemented, please reach out and let me know! I would be happy to implement it for you.
